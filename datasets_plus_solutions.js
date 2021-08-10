@@ -1,4 +1,4 @@
-// After jsFun kickoff, it took me a while to get started because even though I felt comfortable with the iterator methods and what they do, I was unfamiliar with the syntax. I created this solutions file so you have a better idea what the syntax looks like as you walk through them. Then delete the answers and start from scratch over and over again until you don't have to look at the solutions anymore. 
+// After jsFun kickoff, one of the roadblocks for getting started was getting familiar with the syntax. I created this solutions file so you have a better idea what the syntax looks like as you walk through each dataset and prompts, then delete the answers and start from scratch over and over again until you don't have to look at the solutions anymore. 
 
 // Copy and paste each dataset into a separate rep.l to practice -- like this: https://replit.com/@SarahRudy/1-Kitties#index.js
 
